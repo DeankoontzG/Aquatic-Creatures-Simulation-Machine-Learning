@@ -13,7 +13,7 @@ Simulate the dynamic behavior of an articulated organism in a simplified environ
 - Animated joints with cyclic target angles
 - Camera that dynamically centers on the creature
 - Visual grid to better observe motion and positioning
-- 1st & 2nd law of Newton implemented for realistic physics
+- 1st, 2nd & 3rd law of Newton implemented for realistic physics
 
 ## Controls
 
